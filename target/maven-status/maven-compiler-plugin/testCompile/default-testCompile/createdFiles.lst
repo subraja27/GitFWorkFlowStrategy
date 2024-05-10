@@ -1,0 +1,10 @@
+base\BaseClass.class
+pages\CartPage.class
+pages\ShopPage.class
+base\PageObjects.class
+runner\SeleniumRunner.class
+runner\APIRunner.class
+apiSteps\APIStepsImpl.class
+pages\CheckoutPage.class
+hooks\HooksImplementation.class
+pages\MyAccountPage.class
